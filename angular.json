@@ -23,9 +23,7 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "src/styles.css"
-            ],
+            "styles": [ ],
             "scripts": []
           },
           "configurations": {
@@ -119,6 +117,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "minimal"
+    }
+  },
+  "defaultProject": "minimal",
+  "cli": {
+    "analytics": "7579b49e-8f1e-4d53-aefb-b4b7986441c9"
+  }
 }
